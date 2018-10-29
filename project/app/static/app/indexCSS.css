@@ -1,0 +1,53 @@
+.jumbotron {
+    color: black;
+    background: white;
+    text-align: center;
+    /*background: url(http://scrabbleonlinefree.info/wp-content/uploads/2018/06/professional-background-for-powerpoint-presentation-professional-backgrounds-for-powerpoint-presentations-1024x640.jpg) no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.navbar-inverse {
+    background: black;
+    color: white;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse a {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+#header{
+    color: red;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#button_container{
+    text-align: center;
+}
+
+#header_container{
+    background-color: white;
+}
+
+#other_button_container{
+    text-align: center;
+}
+
+#login{
+    background-color: white;
+}
+
+#differentContainer{
+    text-align: center;
+}
+
+#differentJumbotron{
+    background-color: white;
+}
